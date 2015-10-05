@@ -13,8 +13,6 @@ public class Lab04Bst extends Applet
     public void paint(Graphics g)
     {
         
-        Expo.setBackground(g,Color.green);
-        Expo.setColor(g,Expo.yellow);
         // DRAW CUBE
         Expo.drawRectangle(g,0,0,300,300);
         Expo.drawRectangle(g,130,130,430,430);
